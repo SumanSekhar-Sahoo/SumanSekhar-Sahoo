@@ -104,9 +104,9 @@
 
 | Name | Description | Tech Stack | Link |
 |------|-------------|------------|------|
-| Portfolio Website | Personal portfolio with projects and blogs | HTML, CSS, JS | [Repo](https://github.com/SumanSekhar-Sahoo/Portfolio-Website) |
-| College Management System | A full-stack DBMS project | MySQL, Java, JDBC | [Repo](https://github.com/SumanSekhar-Sahoo/College-Management-System) |
-| BMI Calculator | Simple BMI calculator tool | Python | [Repo](https://github.com/SumanSekhar-Sahoo/BMI-Calculator) |
+| Weather App | A simple and responsive web app that displays real-time weather information | HTML, CSS, JS | [Repo](https://github.com/SumanSekhar-Sahoo/Weather-APP) |
+|  MyRestaurant | MyRestaurant is a simple Java-based console application that simulates a restaurant self-ordering system with automatic billing |  Java | [Repo](https://github.com/SumanSekhar-Sahoo/MyRestaurant) |
+|  Cafe Management Web App | A simple and elegant Cafe Management web application | HTML, CSS, JS | [Repo](https://github.com/SumanSekhar-Sahoo/cafemanagment) |
 | Guess the Number | Fun Python game | Python | [Repo](https://github.com/SumanSekhar-Sahoo/Guess-The-Number-Game) |
 
 > 🛠 More at [My Repositories](https://github.com/SumanSekhar-Sahoo?tab=repositories)
