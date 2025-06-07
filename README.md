@@ -108,7 +108,8 @@
 |  MyRestaurant | MyRestaurant is a simple Java-based console application that simulates a restaurant self-ordering system with automatic billing |  Java | [Repo](https://github.com/SumanSekhar-Sahoo/MyRestaurant) |
 |  Cafe Management Web App | A simple and elegant Cafe Management web application | HTML, CSS, JS | [Repo](https://github.com/SumanSekhar-Sahoo/cafemanagment) |
 | tic-tac-toe-ai| Fun Python game | Python | [Repo](https://github.com/SumanSekhar-Sahoo/CODSOFT/tree/main/tic-tac-toe-ai) |
-| CODSOFT |  CodSoft Virtual Internship Program – Artificial Intelligence Domain | Python | [Repo](https://github.com/SumanSekhar-Sahoo/CODSOFT) |
+| CODSOFT |  CodSoft Virtual Internship Program – Artificial Intelligence Domain | HTML,CSS,
+JavaScript,Python | [Repo](https://github.com/SumanSekhar-Sahoo/CODSOFT) |
 
 > 🛠 More at [My Repositories](https://github.com/SumanSekhar-Sahoo?tab=repositories)
 
