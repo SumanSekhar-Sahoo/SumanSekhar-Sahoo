@@ -47,9 +47,20 @@
 ---
 
 
+Got it ✅ Suman! I’ll enhance your **GitHub Developer Toolkit** by adding **Data Science / AI-ML tools and frameworks** along with their icons and official website links. This will make your toolkit more complete for **software + web + data science** development.
+
+Here’s the upgraded version 👇
+
+---
+
+Here’s your updated **Developer Toolkit** with **SQL Server removed** 👇
+
+---
+
 ## 🧰 My Developer Toolkit
 
 <p align="center">
+  <!-- Programming Languages -->
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/></a>
   <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/></a>
   <a href="https://devdocs.io/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C"/></a>
@@ -58,19 +69,14 @@
 </p>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" title="Bootstrap"/></a>
-</p>
-
-<p align="center">
+  <!-- Backend & Database -->
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" title="Express.js"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/></a>
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" title="SQL Server"/></a>
 </p>
 
 <p align="center">
+  <!-- DevOps & Cloud -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" title="GitHub"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/></a>
@@ -78,36 +84,69 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/></a>
 </p>
 
+<p align="center">
+  <!-- Data Science & AI/ML -->
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter Notebook"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" title="Scikit-Learn"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" title="Matplotlib"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" height="40" title="Seaborn"/></a>
+</p>  
+
 ---
 
 <details>
   <summary><strong>🔍 Click to View Toolkit Details</strong></summary>
   <br>
 
-  - 🐍 <strong>Python:</strong> For scripting, AI/ML, web dev, and automation. [Learn more](https://www.python.org/)
-  - 💻 <strong>C++:</strong> For system programming, game engines, and DSA. [Learn more](https://cplusplus.com/)
-  - 🔤 <strong>C:</strong> Low-level programming and embedded systems. [Learn more](https://devdocs.io/c/)
-  - ☕ <strong>Java:</strong> Enterprise apps, Android development, and OOP. [Learn more](https://www.java.com/)
-  - ✨ <strong>JavaScript:</strong> Frontend interactivity and full-stack dev. [Learn more](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* 🐍 **Python:** Scripting, AI/ML, web dev, automation → [Learn more](https://www.python.org/)
 
-  - 🌐 <strong>HTML5/CSS3:</strong> Core of all web content and design. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  - 🎨 <strong>Bootstrap:</strong> Rapid, responsive UI design. [Learn more](https://getbootstrap.com/)
+* 💻 **C++:** System programming, game engines, DSA → [Learn more](https://cplusplus.com/)
 
-  - 🌿 <strong>Node.js:</strong> JavaScript runtime for backend dev. [Learn more](https://nodejs.org/)
-  - ⚡ <strong>Express.js:</strong> Lightweight framework for Node APIs. [Learn more](https://expressjs.com/)
-  - 💾 <strong>MySQL:</strong> Relational DBMS for data storage. [Learn more](https://www.mysql.com/)
-  - 🧮 <strong>SQL Server:</strong> Microsoft's DBMS for enterprise apps. [Learn more](https://learn.microsoft.com/en-us/sql/sql-server/)
+* 🔤 **C:** Low-level programming, embedded systems → [Learn more](https://devdocs.io/c/)
 
-  - 🔧 <strong>Git:</strong> Version control to track code history. [Learn more](https://git-scm.com/)
-  - 🐙 <strong>GitHub:</strong> Hosting and collaboration for projects. [Learn more](https://github.com/)
-  - 📦 <strong>Docker:</strong> Containerization to package apps. [Learn more](https://www.docker.com/)
-  - 🐧 <strong>Linux:</strong> OS for development and deployment. [Learn more](https://www.linux.org/)
-  - ☁️ <strong>AWS:</strong> Scalable cloud infrastructure and services. [Learn more](https://aws.amazon.com/)
+* ☕ **Java:** Enterprise apps, Android, OOP → [Learn more](https://www.java.com/)
 
-</details>
 
+* 🎨 **Bootstrap:** Rapid responsive UI → [Learn more](https://getbootstrap.com/)
+
+* 🌿 **Node.js:** JavaScript runtime for backend → [Learn more](https://nodejs.org/)
+
+* ⚡ **Express.js:** Lightweight Node API framework → [Learn more](https://expressjs.com/)
+
+* 💾 **MySQL:** Relational DBMS → [Learn more](https://www.mysql.com/)
+
+* 🧮 **SQL Server:** Microsoft’s DBMS → [Learn more](https://learn.microsoft.com/en-us/sql/sql-server/)
+
+* 🔧 **Git:** Version control → [Learn more](https://git-scm.com/)
+
+* 🐙 **GitHub:** Hosting & collaboration → [Learn more](https://github.com/)
+
+* 📦 **Docker:** Containerization → [Learn more](https://www.docker.com/)
+
+* 🐧 **Linux:** Dev & deployment OS → [Learn more](https://www.linux.org/)
+
+* ☁️ **AWS:** Cloud infra & services → [Learn more](https://aws.amazon.com/)
+
+* 📓 **Jupyter Notebook:** Interactive coding → [Learn more](https://jupyter.org/)
+
+* 🔢 **NumPy:** Numerical computing → [Learn more](https://numpy.org/)
+
+* 🐼 **Pandas:** Data analysis & manipulation → [Learn more](https://pandas.pydata.org/)
+
+* 📊 **Matplotlib/Seaborn:** Data visualization → [Matplotlib](https://matplotlib.org/) | [Seaborn](https://seaborn.pydata.org/)
+
+* 🤖 **Scikit-Learn:** Machine learning → [Learn more](https://scikit-learn.org/)
+
+* 🔥 **TensorFlow & PyTorch:** Deep learning frameworks → [TensorFlow](https://www.tensorflow.org/) | [PyTorch](https://pytorch.org/)
+
+</details>  
 
 ---
+
 
 ### 🔥 Contribution Graph
 
