@@ -44,16 +44,6 @@
 <a href="https://leetcode.com/u/Suman_sekhar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suman_sekhar/" height="30" width="40" /></a>
 </p>
 
----
-
-
-Got it ✅ Suman! I’ll enhance your **GitHub Developer Toolkit** by adding **Data Science / AI-ML tools and frameworks** along with their icons and official website links. This will make your toolkit more complete for **software + web + data science** development.
-
-Here’s the upgraded version 👇
-
----
-
-Here’s your updated **Developer Toolkit** with **SQL Server removed** 👇
 
 ---
 
