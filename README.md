@@ -1,14 +1,39 @@
-![github-header-image (2)](https://github.com/user-attachments/assets/f81359aa-32c3-4884-8b0a-3a6bc16451de)
+<!-- Header Banner -->
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/f81359aa-32c3-4884-8b0a-3a6bc16451de"
+    alt="GitHub Header"
+    style="max-width:100%; border-radius:12px;"
+  />
+</p>
+
 
 <h1 align="center">
   Hi <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="30">, I'm Suman Sekhar Sahoo
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=F79200&width=435&lines=Aspiring+Data+Scientist+From+India;Python+%7C+SQL+%7C+NLP+%7C+AI/ML" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=F79200&width=520&lines=Aspiring+Data+Scientist+From+India;Python+%7C+SQL+%7C+NLP+%7C+AI%2FML"
+  />
 </h3>
+<!-- Small Robot Top Left -->
+<img 
+  src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
+  alt="AI Robot"
+  width="110"
+  align="left"
+  style="margin-right:12px; margin-top:8px;"
+>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" align="right" />
+</p>
+
+<hr style="border:1px solid #333; width:60%; margin:auto;">
+
 
 ---
 ### 🌟 Stats Summary
