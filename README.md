@@ -67,7 +67,6 @@
 <a href="https://instagram.com/sekhar_0y" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sekhar_0y" height="30" width="40" />
 </a>
-
 <a href="https://www.youtube.com/c/http://www.youtube.com/@sumansekhar-sahoo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@sumansekhar-sahoo" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Suman_sekhar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/suman_sekhar/" height="30" width="40" /></a>
 </p>
